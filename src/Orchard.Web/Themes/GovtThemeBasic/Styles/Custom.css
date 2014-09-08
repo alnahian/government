@@ -1,0 +1,22 @@
+﻿.menu li #vertical-menu {
+	background-color: lightblue;
+	width: 200px;
+}
+
+#html-wid {
+		background-color: lightgreen;
+		text-align: center;
+vertical-align: middle;
+line-height: 90px;
+
+
+}
+
+#html-wid  p {
+		border: 1px solid black;
+}
+
+#html-wid  p a {
+
+	text-decoration: none;
+}
